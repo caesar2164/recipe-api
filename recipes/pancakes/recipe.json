@@ -1,0 +1,75 @@
+{
+  "recipe_name": "Pancakes",
+  "description": "Homemade pancakes using only raw ingredients. No flavored powders (aka: sawdust)!",
+  "tags": [
+    "brunch",
+    "vegetarian"
+  ],
+  "times": {
+    "Prep Time": "20 min",
+    "Cook Time": "10 min"
+  },
+  "yields": {
+    "Servings": 2
+  },
+  "ingredients": [
+    {
+      "All Purpose Flour": {
+        "amount": "1.25 cups"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "2"
+      }
+    },
+    {
+      "Milk": {
+        "amount": "1 cup"
+      }
+    },
+    {
+      "Olive Oil": {
+        "amount": "1 tbsp",
+        "substitutions": [
+          {
+            "Canola Oil": {
+              "amount": "1 tbsp"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Baking Powder": {
+        "amount": "1 tsp"
+      }
+    },
+    {
+      "Baking Soda": {
+        "amount": "1 tsp"
+      }
+    },
+    {
+      "Salt": {
+        "amount": ".5 tsp"
+      }
+    },
+    {
+      "Vanilla Extract": {
+        "amount": ".5 tsp"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "In a bowl mix the flour, sugar, baking soda, baking powder, salt."},
+    {"step": "Mix in the milk, oil, eggs."},
+    {"step": "Pour heated water in a small bowl and place the syrup bottle inside to warm it up."},
+    {"step": "Pour about 1/3-1/2 cup batter onto hot non-stick frying pan or griddle and let cook until bubbles have come out of the whole top surface of the pancake."},
+    {"step": "Flip the pancake with a spatula."},
+    {"step": "Stack onto a warm plate covered with a clean towel to keep warm while you make the rest of the pancakes."},
+    {"step": "Repeat the previous 3 steps for each pancake."},
+    {"step": "Enjoy a homemade stack of pancakes with syrup! (also try eating the pancakes with fruit, like strawberries, blueberries, etc...)"},
+    {"step": "Pancakes done."}
+  ]
+}

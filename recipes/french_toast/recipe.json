@@ -1,0 +1,64 @@
+{
+  "recipe_name": "French Toast",
+  "description": "Traditional French Toast.",
+  "tags": [
+    "brunch",
+    "vegetarian"
+  ],
+  "times": {
+    "Prep Time": "10 min",
+    "Cook Time": "10 min"
+  },
+  "yields": {
+    "Servings": 2
+  },
+  "ingredients": [
+    {
+      "Bread slices": {
+        "amount": "4"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "2"
+      }
+    },
+    {
+      "Milk": {
+        "amount": ".25 cup"
+      }
+    },
+    {
+      "Butter": {
+        "amount": "2 tbsp"
+      }
+    },
+    {
+      "Granulated Sugar": {
+        "amount": "2 tbsp"
+      }
+    },
+    {
+      "Cinnamon, powder": {
+        "amount": "1 tsp"
+      }
+    },
+    {
+      "Vanilla Extract": {
+        "amount": ".25 tsp"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Beat the eggs in a mixing bowl."},
+    {"step": "Add the milk and mix well."},
+    {"step": "Add the sugar, cinnamon, and vanilla and mix."},
+    {"step": "Heat a pan at medium heat."},
+    {"step": "Melt 1/2 Tablespoon of butter in the pan."},
+    {"step": "Dip a slice of bread in the egg mixture and let soak for a few seconds."},
+    {"step": "Fry the slice in the butter until it is golden brown on both sides."},
+    {"step": "Repeat the previous 3 steps for each slice of bread."},
+    {"step": "Serve with fruit, syrup and/or powdered sugar."},
+    {"step": "French Toast done."}
+  ]
+}

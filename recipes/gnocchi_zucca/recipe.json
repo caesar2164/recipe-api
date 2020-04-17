@@ -1,0 +1,58 @@
+{
+  "recipe_name": "Gnocchi di Zucca",
+  "description": "Pumpkin gnocchi!",
+  "tags": [
+    "pumpkin",
+    "pasta",
+    "vegetarian"
+  ],
+  "times": {
+    "Prep Time": "2 hours",
+    "Cook Time": "30 min"
+  },
+  "yields": {
+    "Servings": 4
+  },
+  "ingredients": [
+    {
+      "Pumpkin": {
+        "amount": "1 kg"
+      }
+    },
+    {
+      "All Purpose Flour": {
+        "amount": "200 gr"
+      }
+    },
+    {
+      "Butter": {
+        "amount": "30 gr",
+        "substitutions": [
+          {
+            "Canola Oil": {
+              "amount": "30 ml"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Sage Leaves": {
+        "amount": "40"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Chop the pumpkin into rough 1 inch cubes and place on top of parchment on a cookie sheet and bake in the oven for about one hour. (Set the oven to 375 degrees Fahrenheit and let it heat up with the pumpkin in it to save time.)"},
+    {"step": "When the pumpkin becomes soft, has lost most of its water and starts to color, remove it from the oven and immediately crush it into pulp and start adding flour and kneading."},
+    {"step": "Quickly knead in all the flour (it may need more or less than what is mentioned in the ingredient list) until the dough is soft like bread dough and kneads well."},
+    {"step": "Make the gnocchi. (Any shape is fine, little logs 1/2 inch long and 3/4 inch diameter are the easiest. See picture)"},
+    {"step": "Start boiling a large pot of salted water for the gnocchi."},
+    {"step": "Melt the butter in a large saucepan on medium low heat and let it melt."},
+    {"step": "Cut the sage leaves into pieces and add to melted butter."},
+    {"step": "When the water boils, drop the gnocchi."},
+    {"step": "Right before the gnocchi are done season the butter and sage sauce with salt and pepper to taste."},
+    {"step": "Strain the gnocchi, put in the saucepan and stir to evenly coat them with the butter sauce."},
+    {"step": "Gnocchi di Zucca done."}
+  ]
+}
