@@ -1,0 +1,20 @@
+{
+    "title": "",
+    "message": "",
+    "query_strings": {
+        "key": "API_KEY",
+        "request": {
+            "get_one": {
+                "recipe": "RECIPE_NAME"
+            },
+            "get_multiple": {},
+            "get_all_tags": {}
+        },
+        "pretty": "(formats JSON output for browser, optional)"
+    },
+    "example_requests": [
+        "api.php?key=API_KEY&request=get_one&recipe=RECIPE_NAME",
+        "api.php?key=API_KEY&request=get_multiple",
+        "api.php?key=API_KEY&request=get_all_tags"
+    ]
+}
