@@ -4,6 +4,17 @@
   "tags": [
     "party food"
   ],
+  "dish_type": [
+    "appetizer",
+    "side dish"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "egg"
+  ],
   "times": {
     "Prep Time": "1 hr",
     "Cook Time": "45 mins",

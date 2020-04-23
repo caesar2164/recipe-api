@@ -2,9 +2,16 @@
   "recipe_name": "Sweet Bread Rolls",
   "description": "Sweet Bread Rolls made with milk and honey!",
   "tags": [
-    "bread",
     "vegetarian"
   ],
+  "dish_type": [
+    "bread"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [],
   "times": {
     "Prep Time": "2.5 hr",
     "Cook Time": "30 min",

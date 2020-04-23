@@ -4,6 +4,16 @@
   "tags": [
     "party food"
   ],
+  "dish_type": [
+    "side dish"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "tuna"
+  ],
   "times": {
     "Prep Time": "2.5 hr",
     "Cook Time": "0",

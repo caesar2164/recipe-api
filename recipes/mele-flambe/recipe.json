@@ -2,10 +2,17 @@
   "recipe_name": "Mele Flambé al Forno",
   "description": "Oven baked flambéed apples.",
   "tags": [
-    "dessert",
     "vegetarian",
-    "apple",
     "quick"
+  ],
+  "dish_type": [
+    "dessert"
+  ],
+  "meal": [
+    "dinner"
+  ],
+  "key_ingredients": [
+    "apple"
   ],
   "times": {
     "Prep Time": "30 mins",

@@ -2,9 +2,16 @@
   "recipe_name": "French Toast",
   "description": "Traditional French Toast.",
   "tags": [
-    "brunch",
     "vegetarian"
   ],
+  "dish_type": [
+    "brunch"
+  ],
+  "meal": [
+    "breakfast",
+    "brunch"
+  ],
+  "key_ingredients": [],
   "times": {
     "Prep Time": "10 min",
     "Cook Time": "10 min",

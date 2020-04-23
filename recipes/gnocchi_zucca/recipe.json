@@ -2,9 +2,17 @@
   "recipe_name": "Gnocchi di Zucca",
   "description": "Pumpkin gnocchi!",
   "tags": [
-    "pumpkin",
-    "pasta",
     "vegetarian"
+  ],
+  "dish_type": [
+    "pasta"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "pumpkin"
   ],
   "times": {
     "Prep Time": "2 hours",

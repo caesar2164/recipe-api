@@ -1,9 +1,18 @@
 {
   "recipe_name": "Crêpes",
-  "description": "Crêpes. Savory with ham and cheese, sweet with apple and cinnamon. Crêpes are made one at a time each in their own pan.",
+  "description": "Crêpes. Savory with ham and cheese, sweet with apple and cinnamon. Crêpes are made one at a time, each in their own pan.",
   "tags": [
     "quick"
   ],
+  "dish_type": [
+    "dessert",
+    "brunch"
+  ],
+  "meal": [
+    "lunch",
+    "brunch"
+  ],
+  "key_ingredients": [],
   "times": {
     "Prep Time": "15 mins",
     "Cook Time": "15 mins",

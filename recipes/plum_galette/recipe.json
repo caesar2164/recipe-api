@@ -2,8 +2,16 @@
   "recipe_name": "Plum Galette",
   "description": "Tart with plum and cinnamon.",
   "tags": [
-    "dessert",
-    "vegetarian",
+    "vegetarian"
+  ],
+  "dish_type": [
+    "dessert"
+  ],
+  "meal": [
+    "breakfast",
+    "dinner"
+  ],
+  "key_ingredients": [
     "plum"
   ],
   "times": {

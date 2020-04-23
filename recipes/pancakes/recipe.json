@@ -2,9 +2,16 @@
   "recipe_name": "Pancakes",
   "description": "Homemade pancakes using only raw ingredients. No flavored powders (aka: sawdust)!",
   "tags": [
-    "brunch",
     "vegetarian"
   ],
+  "dish_type": [
+    "brunch"
+  ],
+  "meal": [
+    "breakfast",
+    "brunch"
+  ],
+  "key_ingredients": [],
   "times": {
     "Prep Time": "20 min",
     "Cook Time": "10 min",

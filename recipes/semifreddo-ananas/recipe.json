@@ -2,8 +2,17 @@
   "recipe_name": "Semifreddo al'Ananas",
   "description": "Upside-down Pineapple frozen dessert.",
   "tags": [
-    "dessert",
     "vegetarian"
+  ],
+  "dish_type": [
+    "dessert"
+  ],
+  "meal": [
+    "breakfast",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "pineapple"
   ],
   "times": {
     "Prep Time": "45 mins",

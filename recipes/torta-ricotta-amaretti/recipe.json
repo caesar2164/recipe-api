@@ -2,8 +2,16 @@
   "recipe_name": "Torta di Ricotta e Amaretti",
   "description": "Ricotta and Amaretti (that's the cookies, not the liquer) Cake.",
   "tags": [
-    "dessert",
-    "vegetarian",
+    "vegetarian"
+  ],
+  "dish_type": [
+    "dessert"
+  ],
+  "meal": [
+    "breakfast",
+    "dinner"
+  ],
+  "key_ingredients": [
     "ricotta"
   ],
   "times": {
