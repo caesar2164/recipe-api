@@ -8,7 +8,9 @@
   "times": {
     "Prep Time": "45 mins",
     "Cook Time": "30 mins",
-    "Rest Time": "24 hrs"
+    "Rest Time": "24 hrs",
+    "Active Time": "1 hour",
+    "Total Time": "12 hours"
   },
   "yields": {
     "Servings": 8
@@ -66,7 +68,7 @@
     {"step": "Add the Zabaione and keep mixing."},
     {"step": "Add the crumbled biscotti and the chopped pineapple and mix some more."},
     {"step": "Very delicately mix in the whipped cream and pour the mixture into the prepared form."},
-    {"step": "Level the filling, cover the form and put in the freezer for 24 hours."},
+    {"step": "Level the filling, cover the form and put in the freezer overnight."},
     {"step": "Take it out of the freezer about 10 minutes before serving and de-form it on a serving plate upside down."},
     {"step": "Semifreddo al'Ananas done."}
   ]
