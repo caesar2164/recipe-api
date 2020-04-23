@@ -8,13 +8,19 @@
                 "recipe": "RECIPE_NAME"
             },
             "get_multiple": {},
-            "get_all_tags": {}
+            "get_all_tags": {},
+            "get_all_key_ingredients": {},
+            "get_all_dish_types": {},
+            "get_all_meal_types": {}
         },
         "pretty": "(formats JSON output for browser, optional)"
     },
     "example_requests": [
         "api.php?key=API_KEY&request=get_one&recipe=RECIPE_NAME",
         "api.php?key=API_KEY&request=get_multiple",
-        "api.php?key=API_KEY&request=get_all_tags"
+        "api.php?key=API_KEY&request=get_all_tags",
+        "api.php?key=API_KEY&request=get_all_key_ingredients",
+        "api.php?key=API_KEY&request=get_all_dish_types",
+        "api.php?key=API_KEY&request=get_all_meal_types"
     ]
 }

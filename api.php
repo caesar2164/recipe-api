@@ -85,7 +85,11 @@ if(isset($_GET['key']) && $_GET['key'] == $SETTINGS["API_KEY"]) {
                         $recipe_json['recipe_id'] = $recipe_name;
                         $recipe_json['recipe_name'] = $json['recipe_name'];
                         $recipe_json['description'] = $json['description'];
-                        $recipe_json['tags'] = $json['tags'];
+                        $display_tags = array_merge(
+                            $json['tags'],
+                            $json['key_ingredients']
+                        );
+                        $recipe_json['tags'] = $display_tags;
                         $recipe_json['times'] = $json['times'];
                         $recipe_json['yields'] = $json['yields'];
                         $recipe_json['photo'] = getRecipePhoto($recipe_name);
@@ -110,6 +114,57 @@ if(isset($_GET['key']) && $_GET['key'] == $SETTINGS["API_KEY"]) {
                 }
                 sort($output_tags);
                 printJSON($output_tags);
+                break;
+            case 'get_all_key_ingredients': # Get all unique tags from all recipes.
+                $files = glob('recipes/*/recipe.json');
+                $output_key_ingredients = [];
+                foreach($files as $file) {
+                    $recipe_name = explode('/', $file)[1];
+                    $json = getFileJSON($file);
+                    if (!is_null($json)) {
+                        foreach ($json['key_ingredients'] as $tag) {
+                            if (!in_array($tag, $output_key_ingredients)) {
+                                array_push($output_key_ingredients, $tag);
+                            }
+                        }
+                    }
+                }
+                sort($output_key_ingredients);
+                printJSON($output_key_ingredients);
+                break;
+            case 'get_all_dish_types': # Get all unique tags from all recipes.
+                $files = glob('recipes/*/recipe.json');
+                $output_dish_types = [];
+                foreach($files as $file) {
+                    $recipe_name = explode('/', $file)[1];
+                    $json = getFileJSON($file);
+                    if (!is_null($json)) {
+                        foreach ($json['dish_types'] as $tag) {
+                            if (!in_array($tag, $output_dish_types)) {
+                                array_push($output_dish_types, $tag);
+                            }
+                        }
+                    }
+                }
+                sort($output_dish_types);
+                printJSON($output_dish_types);
+                break;
+            case 'get_all_meal_types': # Get all unique tags from all recipes.
+                $files = glob('recipes/*/recipe.json');
+                $output_meal_types = [];
+                foreach($files as $file) {
+                    $recipe_name = explode('/', $file)[1];
+                    $json = getFileJSON($file);
+                    if (!is_null($json)) {
+                        foreach ($json['meal'] as $tag) {
+                            if (!in_array($tag, $output_meal_types)) {
+                                array_push($output_meal_types, $tag);
+                            }
+                        }
+                    }
+                }
+                sort($output_meal_types);
+                printJSON($output_meal_types);
                 break;
             default:
                 displayDocs('Malformed Request', 'You must pass a recognized request type');
