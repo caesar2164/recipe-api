@@ -1,0 +1,68 @@
+{
+  "recipe_name": "Mele Flambé al Forno",
+  "description": "Oven baked flambéed apples.",
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "apple",
+    "quick"
+  ],
+  "times": {
+    "Prep Time": "30 mins",
+    "Cook Time": "15 mins"
+  },
+  "yields": {
+    "Servings": 4
+  },
+  "ingredients": [
+    {
+      "Apples": {
+        "amount": "4"
+      }
+    },
+    {
+      "Raisins": {
+        "amount": ".5 cup"
+      }
+    },
+    {
+      "Almonds, slivered": {
+        "amount": ".5 cup"
+      }
+    },
+    {
+      "Rum, dark": {
+        "amount": "12 tbsp"
+      }
+    },
+    {
+      "Apple Jam": {
+        "amount": "8 tbsp"
+      }
+    },
+    {
+      "Sugar, brown": {
+        "amount": "6 tbsp"
+      }
+    },
+    {
+      "Cinnamon, ground": {
+        "amount": "8 tsp"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Preheat the oven to 350 degrees Fahrenheit."},
+    {"step": "Core the apples."},
+    {"step": "Place the apples in a glass dish. (a few inches deep)."},
+    {"step": "Mix the raisins, almond slivers, apple jam, 2/3 of the rum 1/3 of the sugar and 1/2 the cinnamon in a small bowl."},
+    {"step": "Spoon the mixture into the middle of each cored apple, dividing everything evenly. "},
+    {"step": "Cover the glass dish with plastic wrap and cook in the microwave for 2-3 minutes per apple. (The standard portion of four apples cooks perfectly in about 10 minutes.)"},
+    {"step": "Take the dish out of the microwave, remove the plastic wrap and sprinkle one tablespoon of sugar and one teaspoon of cinnamon over the center of each apple."},
+    {"step": "Put in the oven for about 5 minutes or until the each apple is a nice golden brown color."},
+    {"step": "Take out of the oven, place each apple in its own bowl, divide the liquid into each bowl evenly."},
+    {"step": "Put the rest of the rum in a small bowl and put in the microwave for about 10 seconds."},
+    {"step": "Spoon a tablespoon of rum over each apple and set alight to give it a fancy flambé effect and serve."},
+    {"step": "Mele Flambé al Forno done."}
+  ]
+}
