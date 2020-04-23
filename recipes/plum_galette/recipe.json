@@ -1,0 +1,104 @@
+{
+  "recipe_name": "Plum Galette",
+  "description": "Tart with plum and cinnamon.",
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "plum"
+  ],
+  "times": {
+    "Prep Time": "2 hr",
+    "Cook Time": "1 hr"
+  },
+  "yields": {
+    "Servings": 8
+  },
+  "ingredients": [
+    {
+      "All Purpose Flour": {
+        "amount": "3 cups"
+      }
+    },
+    {
+      "Sugar, white": {
+        "amount": "1.5 cups"
+      }
+    },
+    {
+      "Sugar, brown": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Butter": {
+        "amount": "4 oz"
+      }
+    },
+    {
+      "Plums": {
+        "amount": "12"
+      }
+    },
+    {
+      "Almonds, slivered": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Water": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Cream, heavy": {
+        "amount": "1 tsp"
+      }
+    },
+    {
+      "Rum, dark": {
+        "amount": "1 tsp"
+      }
+    },
+    {
+      "Salt": {
+        "amount": "1 tsp"
+      }
+    },
+    {
+      "Cinnamon": {
+        "amount": ""
+      }
+    },
+    {
+      "Ginger": {
+        "amount": ""
+      }
+    },
+    {
+      "Cloves": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"heading": "For the Dough:"},
+    {"step": "Combine 2/3rds of the flour, 1/6th of the white sugar and the salt in a large bowl."},
+    {"step": "Blend in the butter, and stir in the water until the dough stays together but isn't sticky."},
+    {"step": "Wrap the dough in plastic wrap and put it in the fridge for at least 30 mins."},
+    {"heading": "For the Filling:"},
+    {"step": "Slice plums in eighths, and combine with 2/3rds of the white sugar."},
+    {"step": "Add ginger, cinnamon, cloves to taste and mix."},
+    {"heading": "For the 'Streusel':"},
+    {"step": "Combine 1/6th of the flour, all of the brown sugar, the last 1/6th of the white sugar and the ground cinnamon and mix well."},
+    {"step": "Add the cream to bind the ingredients of the 'Streusel', while maintaining a crumbly texture."},
+    {"heading": "Combining the three parts:"},
+    {"step": "Preheat the oven to 375 degrees Fahrenheit."},
+    {"step": "Roll the dough into a circular shape and place in your pie pan."},
+    {"step": "Put the filling in the dough."},
+    {"step": "Crumble the 'Streusel' over the top of the plum filling, making sure to cover the whole Galette."},
+    {"step": "Sprinkle the almond slivers over the top of the Galette."},
+    {"step": "Fold the edges of the dough over to create a nice crust around the whole Galette."},
+    {"step": "Put the Galette in the oven for about 1 hour or until the crust becomes a nice golden color."},
+    {"step": "Plum Galette done."}
+  ]
+}
