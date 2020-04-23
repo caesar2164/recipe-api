@@ -1,0 +1,81 @@
+{
+  "recipe_name": "Crêpes",
+  "description": "Crêpes. Savory with ham and cheese, sweet with apple and cinnamon. Crêpes are made one at a time each in their own pan.",
+  "tags": [
+    "quick"
+  ],
+  "times": {
+    "Prep Time": "15 mins",
+    "Cook Time": "15 mins"
+  },
+  "yields": {
+    "Servings": 2
+  },
+  "ingredients": [
+    {
+      "All Purpose Flour": {
+        "amount": "1 cup"
+      }
+    },
+    {
+      "Milk": {
+        "amount": "1 cup"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "1"
+      }
+    },
+    {
+      "Cheese, shredded": {
+        "amount": "1 cup"
+      }
+    },
+    {
+      "Ham": {
+        "amount": "2 oz"
+      }
+    },
+    {
+      "Apple": {
+        "amount": "1"
+      }
+    },
+    {
+      "Sugar, white": {
+        "amount": "4 tbsp"
+      }
+    },
+    {
+      "Cinnamon": {
+        "amount": "4 tsp"
+      }
+    },
+    {
+      "Butter": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"heading": "Preparing the Batter:"},
+    {"step": "In a mixing bowl whisk the flour, milk, and egg together until completely even and smooth."},
+    {"step": "Add a little flour or milk until the batter moves like a liquid but looks and feels viscous."},
+    {"step": "Optional but recommended: Let sit covered with cling film in the refrigerator for about 30 minutes (this is in addition to the prep time)."},
+    {"heading": "Making a basic Crêpe:"},
+    {"step": "Heat a non-stick frying pan on medium heat and coat the bottom with a small melted pat of butter."},
+    {"step": "Pour about 1/2 cup of batter in the pan, spread the batter out on the bottom of the pan in a nice thin flat layer."},
+    {"step": "When the batter turns translucent take a spatula and check the bottom surface of the Crêpe. When it has colored flip the Crêpe to cook the other side (either with a spatula or with an nice flick of the wrist with the pan)."},
+    {"heading": "Making a Savory Crêpe:"},
+    {"step": "Add 1/2 cup of shredded cheese to the center of the Crêpe. Lay 1 ounce of ham on the cheese. Season to taste."},
+    {"step": "When the other side of the Crêpe has colored, fold the Crêpe in thirds and serve."},
+    {"heading": "Making a Sweet Crêpe:"},
+    {"step": "Slice half the apple into thin slices and lay them all on the middle of the Crêpe."},
+    {"step": "Sprinkle the Crêpe liberally with 2 tablespoons of sugar and 2 teaspoons of cinnamon."},
+    {"step": "When the bottom of the Crêpe has colored, fold into quarters by first folding in half and then folding once more in the other direction."},
+    {"step": "Serve with syrup and powdered sugar sprinkled on top."},
+    {"step": "(Other fillings are possible and also very good. For example, nutella for a very rich sweet Crêpe. Kiwi and brown sugar makes for a nice light healthy dessert. For a very fancy one try pre-soaking some fruit like peach and raisins in something like cognac and serve by flambeing with some more cognac right on a plate, don't worry when you flambe the alcohol burns off but leaves the flavor of the specific alcohol.)"},
+    {"step": "Crêpes done."}
+  ]
+}
