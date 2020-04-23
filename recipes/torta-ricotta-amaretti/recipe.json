@@ -1,0 +1,68 @@
+{
+  "recipe_name": "Torta di Ricotta e Amaretti",
+  "description": "Ricotta and Amaretti (that's the cookies, not the liquer) Cake.",
+  "tags": [
+    "dessert",
+    "vegetarian",
+    "ricotta"
+  ],
+  "times": {
+    "Prep Time": "1.5 hr",
+    "Cook Time": "45 mins"
+  },
+  "yields": {
+    "Servings": 8
+  },
+  "ingredients": [
+    {
+      "Ricotta": {
+        "amount": "900 gr"
+      }
+    },
+    {
+      "All Purpose Flour": {
+        "amount": "400 gr"
+      }
+    },
+    {
+      "Sugar, white": {
+        "amount": "300 gr"
+      }
+    },
+    {
+      "Amaretti cookies": {
+        "amount": "200 gr"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "4"
+      }
+    },
+    {
+      "Butter": {
+        "amount": "150 gr"
+      }
+    },
+    {
+      "Rum, dark": {
+        "amount": "30 ml"
+      }
+    },
+    {
+      "yeast": {
+        "amount": "8 gr"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Preheat the oven to 350 Degrees Fahrenheit."},
+    {"step": "Mix the Ricotta, 2/3rd of the sugar, the Amaretti, the rum and 1/2 of the eggs well to make the filling."},
+    {"step": "Put the flour, with the yeast mixed in, in a bowl and make a well in it. Put the butter cut into chunks, the rest of the sugar, and the other two eggs in the well and mix."},
+    {"step": "Join all the ingredients in the dough together well and knead it until it holds together but isn't sticky. Divide the dough into two parts."},
+    {"step": "Coat the inside of a cake pan with butter and flour and use one part of the dough to cover the inside of the pan (both the bottom and the sides)"},
+    {"step": "Put the filling inside the pan, smooth out the filling and cover the pan with the other half of the dough."},
+    {"step": "Bake the cake for about 45 minutes and then take it out, place it upside down on a serving dish and evenly sprinkle the top with powdered sugar."},
+    {"step": "Torta di Ricotta e Amaretti done."}
+  ]
+}
