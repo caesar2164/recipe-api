@@ -1,0 +1,80 @@
+{
+  "recipe_name": "Faux Fish",
+  "description": "Fake fish made primarily of tuna and potatoes.",
+  "tags": [
+    "party food"
+  ],
+  "times": {
+    "Prep Time": "2.5 hr",
+    "Cook Time": "0"
+  },
+  "yields": {
+    "Servings": 4
+  },
+  "ingredients": [
+    {
+      "Potatoes": {
+        "amount": "1 lb"
+      }
+    },
+    {
+      "Tuna, can": {
+        "amount": "1"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "2"
+      }
+    },
+    {
+      "Mayonnaise": {
+        "amount": "4 oz"
+      }
+    },
+    {
+      "Dill Pickles": {
+        "amount": "2 oz"
+      }
+    },
+    {
+      "Olives, kalamata": {
+        "amount": "1 oz"
+      }
+    },
+    {
+      "Olives, pimento": {
+        "amount": "1 oz"
+      }
+    },
+    {
+      "Carrots": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Boil the potatoes with the skin still on, take the skin off and mash them in a large mixing bowl."},
+    {"step": "Hard boil the eggs, take of the shell and set aside a round slice of egg for decoration."},
+    {"step": "Put remainder of eggs in a food processor, add the tuna and mix."},
+    {"step": "Add the egg and tuna mixture to the potatoes and mix well."},
+    {"step": "Add mayonnaise to the mixture until the consistency is that of creamy mashed potatoes."},
+    {"step": "Set aside one pickle, a few kalamata olives and a few pimento olives for decorations."},
+    {"step": "Dice the rest of the pickles, kalamata and pimento olives."},
+    {"step": "Add them to the mixture along with the capers."},
+    {"step": "Add salt and pepper to taste."},
+    {"step": "Form the mixture into the shape of a fish (either one large one on a platter or individual portions on plates)."},
+    {"step": "Decorate as desired using sliced carrots, egg, pickles, and the olives that were set aside earlier. (feel free to experiment!)"},
+    {"step": "Faux Fish done."}
+  ]
+}
