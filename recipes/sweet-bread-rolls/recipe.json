@@ -1,0 +1,81 @@
+{
+  "recipe_name": "Sweet Bread Rolls",
+  "description": "Sweet Bread Rolls made with milk and honey!",
+  "tags": [
+    "bread",
+    "vegetarian"
+  ],
+  "times": {
+    "Prep Time": "2.5 hr",
+    "Cook Time": "30 min",
+    "Rest Time": "1 hr"
+  },
+  "yields": {
+    "Servings": 10
+  },
+  "ingredients": [
+    {
+      "All Purpose Flour": {
+        "amount": "8 cups"
+      }
+    },
+    {
+      "Milk": {
+        "amount": "1 cup"
+      }
+    },
+    {
+      "Honey": {
+        "amount": "1 cup"
+      }
+    },
+    {
+      "Butter": {
+        "amount": "1 cup"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "4"
+      }
+    },
+    {
+      "Water": {
+        "amount": ".5 cup"
+      }
+    },
+    {
+      "Sugar, white": {
+        "amount": "1 tbsp"
+      }
+    },
+    {
+      "Yeast, active dry": {
+        "amount": "5 tsp"
+      }
+    },
+    {
+      "Salt": {
+        "amount": "2 tsp"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Melt butter in the microwave and combine with the milk, honey and salt in a large mixing bowl."},
+    {"step": "Warm the water in the microwave and dissolve the yeast and the sugar in it."},
+    {"step": "While the yeast mixture sets for about 5 minutes, beat the eggs and add them to the milk mixture."},
+    {"step": "Pour the yeast mixture into the milk mixture and stir until smooth."},
+    {"step": "Add 1/2 of the flour and mix until smooth."},
+    {"step": "Gradually stir in the rest of the flour (or until the batter can no longer be mixed.)"},
+    {"step": "Place the dough on a floured surface and knead for about 10 minutes."},
+    {"step": "Place the dough in a bowl, cover it with a towel and let rise for about 1 hour (or until it has roughly doubled in size."},
+    {"step": "Now make the rolls. The shape is arbitrary."},
+    {"step": "To make the cloverleaf rolls make three small 1 inch balls and place them together on the bottom of a muffin-tin."},
+    {"step": "To make the braid, make three 1 inch diameter, 10 inch logs, braid them and tuck in the ends. Place the braid on a sheet of parchment paper on a cookie sheet."},
+    {"step": "After the rolls are made and placed in their baking containers, let the dough rise for a second time for 30-45 minutes."},
+    {"step": "Preheat the oven to 300 degrees Fahrenheit"},
+    {"step": "Beat an egg with 1 tablespoon of water and brush this egg wash on the surface of the dough before baking."},
+    {"step": "Bake the rolls. (about 15 minutes for the small rolls and 30 minutes for the braid or until surface turns a nice golden color)"},
+    {"step": "Dinner Rolls done."}
+  ]
+}
