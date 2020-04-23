@@ -1,0 +1,79 @@
+{
+  "recipe_name": "Quiche",
+  "description": "Cheese and Ham omelete in a crust.",
+  "tags": [
+    "party food"
+  ],
+  "times": {
+    "Prep Time": "1 hr",
+    "Cook Time": "45 mins"
+  },
+  "yields": {
+    "Servings": 6
+  },
+  "ingredients": [
+    {
+      "Puff Pastry sheet": {
+        "amount": "1"
+      }
+    },
+    {
+      "Onion, large": {
+        "amount": "1"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "6"
+      }
+    },
+    {
+      "Ham": {
+        "amount": "4 oz"
+      }
+    },
+    {
+      "Cheese, grated": {
+        "amount": "4 oz"
+      }
+    },
+    {
+      "Cream": {
+        "amount": "4 oz"
+      }
+    },
+    {
+      "Oil, olive": {
+        "amount": "1 tbsp"
+      }
+    },
+    {
+      "Italian Seasoning": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Thaw the sheet of puff pastry. "},
+    {"step": "Chop the onion and saute it in the oil and some water until it starts to color."},
+    {"step": "Add the italian seasoning and let cool."},
+    {"step": "Preheat oven to 375 degrees Fahrenheit."},
+    {"step": "Roll the puff pastry sheet flat to line a 12\" oven-proof ceramic dish."},
+    {"step": "Chop the ham and add it along with the cheese to the onion."},
+    {"step": "Transfer to the pastry lined dish."},
+    {"step": "Mix the eggs and cream in a small bowl, adding salt and pepper to taste."},
+    {"step": "Pour over the other ingredients and roll the edges of the pastry to create a nice border."},
+    {"step": "Put in the oven for 30-45 minutes or until the pastry is puffed and the filling has turned a nice golden color.."},
+    {"step": "Quiche done."}
+  ]
+}
