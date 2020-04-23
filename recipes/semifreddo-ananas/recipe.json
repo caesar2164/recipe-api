@@ -1,0 +1,73 @@
+{
+  "recipe_name": "Semifreddo al'Ananas",
+  "description": "Upside-down Pineapple frozen dessert.",
+  "tags": [
+    "dessert",
+    "vegetarian"
+  ],
+  "times": {
+    "Prep Time": "45 mins",
+    "Cook Time": "30 mins",
+    "Rest Time": "24 hrs"
+  },
+  "yields": {
+    "Servings": 8
+  },
+  "ingredients": [
+    {
+      "Biscotti (almond or similar)": {
+        "amount": "200 gr"
+      }
+    },
+    {
+      "Cream, heavy": {
+        "amount": "300 gr"
+      }
+    },
+    {
+      "Sugar, white": {
+        "amount": "200 gr"
+      }
+    },
+    {
+      "Butter": {
+        "amount": "100 gr"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "2"
+      }
+    },
+    {
+      "Pineapple, sliced in can": {
+        "amount": "2"
+      }
+    },
+    {
+      "Rum, dark": {
+        "amount": "45 ml"
+      }
+    },
+    {
+      "Cherries, Maraschino": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Whip the eggs with half the sugar in a saucepan until foamy and light-colored."},
+    {"step": "Cook at very low heat, stirring constantly, for about 15 minutes or until the trail left by the dripping stays visible on the surface. (This is what's known as Zabaione Cream.)"},
+    {"step": "Mix in the rum and let the Zabaione cool, stirring it occasionally."},
+    {"step": "Prepare the form by coating the bottom with pineapple slices and a maraschino cherry inside each hole."},
+    {"step": "Chop the remaining pineapple into small chunks and set them aside for later use."},
+    {"step": "Crumble the almond Biscotti, whip the cream to stiff peaks and set both aside as well."},
+    {"step": "Cream the butter with the remaining sugar until it becomes smooth and foamy."},
+    {"step": "Add the Zabaione and keep mixing."},
+    {"step": "Add the crumbled biscotti and the chopped pineapple and mix some more."},
+    {"step": "Very delicately mix in the whipped cream and pour the mixture into the prepared form."},
+    {"step": "Level the filling, cover the form and put in the freezer for 24 hours."},
+    {"step": "Take it out of the freezer about 10 minutes before serving and de-form it on a serving plate upside down."},
+    {"step": "Semifreddo al'Ananas done."}
+  ]
+}
