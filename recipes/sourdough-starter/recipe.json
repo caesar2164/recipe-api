@@ -1,0 +1,76 @@
+{
+  "recipe_name": "Sourdough Starter",
+  "description": "How to start your own and feed it. Starter recipe adapted from NYT Cooking, feed schedule and dosing adapted from Bon Appetit.",
+  "tags": [
+    "vegetarian",
+    "baking"
+  ],
+  "dish_type": [
+    "preparation"
+  ],
+  "meal": [],
+  "key_ingredients": [],
+  "times": {
+    "Active Time": "5 hours",
+    "Total Time": "1 week"
+  },
+  "yields": {
+    "Servings": 1,
+    "Units": "starter"
+  },
+  "ingredients": [
+    {
+      "heading": "To Make the Starter:"
+    },
+    {
+      "All Purpose Flour": {
+        "amount": "470 grams"
+      }
+    },
+    {
+      "Pineapple Juice (fresh squeezed is best, no sugar added)": {
+        "amount": "90 grams"
+      }
+    },
+    {
+      "Water (tap is fine, filtered is better)": {
+        "amount": "300 grams"
+      }
+    },
+    {
+      "heading": "To Feed the Starter:"
+    },
+    {
+      "Flour, white": {
+        "amount": "50 grams"
+      }
+    },
+    {
+      "Flour, whole wheat": {
+        "amount": "50 grams"
+      }
+    },
+    {
+      "Water (tap)": {
+        "amount": "100 grams"
+      }
+    }
+  ],
+  "directions": [
+    {"heading": "Making the seed culture:"},
+    {"step": "Combine 30 g of the flour and 60 g pineapple juice in a glass bowl. Cover tightly with plastic wrap or lid and leave at room temperature, stirring with a wet spoon twice a day. Bubbles should appear after 24 to 36 hours."},
+    {"step": "After 48 hours, add 30 g flour and remaining pineapple juice, stirring to incorporate. Re-cover and leave at room temperature, stirring with a wet spoon twice a day."},
+    {"step": "When it is foamy, in 1 to 4 days, combine 60 g flour and 30 g water in a medium nonreactive bowl. Add seed culture, stirring to incorporate, and re-cover. Stir twice a day to aerate."},
+    {"heading": "Converting it into Starter:"},
+    {"step": "When mixture has doubled in bulk, in 1 to 2 days, Combine 350 g flour and 250 g water in bowl. Add 100 g of seed culture mixture (discard the rest, or use to make a second starter) and mix until fully incorporated."},
+    {"step": "Transfer to a lightly floured surface and knead for 2 minutes. It should have the consistency of bread dough."},
+    {"step": "Transfer to bowl and let rest at room temperature until it doubles in size, about 4 to 8 hours. Knead lightly, then store in container with tight-fitting lid (container must be large enough to let starter triple in bulk). Store in refrigerator."},
+    {"heading": "Feeding the Starter:"},
+    {"step": "The starter must be fed 4-12 hours before use."},
+    {"step": "Put 100-200 g of starter into a clean glass bowl, add water. Stir into a slurry. Add flour and stir until fully combined, no dry spots should remain."},
+    {"step": "Cover and let rest for 4-12 hours until it had doubled in size and passes the float test."},
+    {"step": "Feed the starter in the refrigerated container the same way. If you keep about 400g of starter in the fridge at all times you can split the started in two at every feed and maintain status quo."},
+    {"step": "The starter should be fed every 5-10 days if kept in the fridge, or every 4 hours to 2 days if kept outside. it can also survive indefinitely in the freezer, but will need several rounds of feeding to revive it before use."},
+    {"step": "Sourdough Starter Done."}
+  ]
+}

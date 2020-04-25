@@ -1,0 +1,88 @@
+{
+  "recipe_name": "Sourdough Bread",
+  "description": "Recipe adapted from Claire and Brad (of Bon Appetit Test Kitchen fame). 75% hydration, maintain this when substituting flours.",
+  "tags": [
+    "vegetarian"
+  ],
+  "dish_type": [
+    "bread"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [],
+  "times": {
+    "Active Time": "3 hours",
+    "Total Time": "24 hours"
+  },
+  "yields": {
+    "Servings": 2,
+    "Units": "loaves"
+  },
+  "ingredients": [
+    {
+      "Sourdough Starter, fed": {
+        "amount": "250 grams"
+      }
+    },
+    {
+      "Flour, white": {
+        "amount": "750 grams"
+      }
+    },
+    {
+      "Flour, whole wheat": {
+        "amount": "250 grams"
+      }
+    },
+    {
+      "Flour, spelt": {
+        "amount": "100 grams"
+      }
+    },
+    {
+      "Water": {
+        "amount": "750 grams"
+      }
+    },
+    {
+      "Salt": {
+        "amount": "30 grams"
+      }
+    }
+  ],
+  "directions": [
+    {"heading": "Autolyse:"},
+    {"step": "Combine all the flours together in a bowl.  "},
+    {"step": "Add all but 50 grams of water and mix, turn the dough out onto the counter and knead well for a few minutes, there should be no dry spots."},
+    {"step": "Return to the bowl, cover, and let rest for 30 min to 4 hours."},
+    {"heading": "Gluten Development:"},
+    {"step": "Test the starter to ensure that a small glob of starter floats."},
+    {"step": "Add the starter to the autolysed dough and pinch it in to achieve an even consistency throughout."},
+    {"step": "Add the salt and pour over the remaining 50 g of water, combine."},
+    {"step": "Once the water has been mostly absorbed, turn the dough out onto the counter and knead and 'slap and fold' for about 5 min. The water will completely absorb and the dough will be smooth and homogenous."},
+    {"heading": "Bulk Fermentation:"},
+    {"step": "Place the kneaded dough ball in a lightly oiled container and cover. Leave in a warm place (ex. oven with the light on) for about 30 min. "},
+    {"step": "After 30 min have passed lightly oil your hands and turn the dough."},
+    {"step": "Repeat every 30 min for about 4 hours or until the dough has nearly doubled in volume. Remember to oil the lid if the dough is likely to touch the top of the container."},
+    {"heading": "Loaf Shaping:"},
+    {"step": "Once the dough has risen, turn out the dough onto a watered countertop and wet your hands."},
+    {"step": "Split the dough in half and pre-shape the loaves into balls, stretching the dough to create tension in the domed section. Rest for about 10 min."},
+    {"step": "Prep the banneton or baskets with a tea towel and flour."},
+    {"step": "Lightly flour the counter and tops of the loaves."},
+    {"step": "Rest for another 5-10 min seam side down to let it seal, before transferring the loaves to the floured bannetons, seam side up."},
+    {"step": "Cover the loaves with a floured tea towel (or fold the tea towel over to cover)."},
+    {"step": "Store in refrigerator over night, minimum of 12 hours."},
+    {"heading": "Baking:"},
+    {"step": "Place your dutch oven into the oven and preheat to 500ºF."},
+    {"step": "When the oven comes up to temperature, de-mold one loaf onto a piece of parchment paper. Score a design into the top of the loaf with a lame and transfer the loaf into the dutch oven with the parchment paper. "},
+    {"step": "Place the dough in a bowl, cover it with a towel and let rise for about 1 hour (or until it has roughly doubled in size."},
+    {"step": "Close the dutch oven with its lid and set timer for 20 min. Closing the lid for the first 20 min of the bake will surround the bread in steam, allowing it to rise and not crust over."},
+    {"step": "After the first 20 min remove the lid and cook for another 20 min uncovered."},
+    {"step": "When the crust is well browned remove the loaf from the oven and place on a cooling rack."},
+    {"step": "Repeat: turning the second loaf out onto the same parchment paper, score, and bake."},
+    {"step": "Let the loaves rest and cool for at least an hour before cutting into them. I know its hard, but the bread will be easier to cut if you wait and it will taste just as good and keep longer!"},
+    {"step": "Sourdough Done."}
+  ]
+}
