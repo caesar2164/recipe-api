@@ -2,7 +2,8 @@
   "recipe_name": "Sweet Bread Rolls",
   "description": "Sweet Bread Rolls made with milk and honey!",
   "tags": [
-    "vegetarian"
+    "vegetarian",
+    "baking"
   ],
   "dish_type": [
     "bread"

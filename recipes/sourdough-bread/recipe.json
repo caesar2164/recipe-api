@@ -2,7 +2,8 @@
   "recipe_name": "Sourdough Bread",
   "description": "Recipe adapted from Claire and Brad (of Bon Appetit Test Kitchen fame). 75% hydration, maintain this when substituting flours.",
   "tags": [
-    "vegetarian"
+    "vegetarian",
+    "baking"
   ],
   "dish_type": [
     "bread"
@@ -54,7 +55,7 @@
   ],
   "directions": [
     {"heading": "Autolyse:"},
-    {"step": "Combine all the flours together in a bowl.  "},
+    {"step": "Combine all the flours together in a bowl."},
     {"step": "Add all but 50 grams of water and mix, turn the dough out onto the counter and knead well for a few minutes, there should be no dry spots."},
     {"step": "Return to the bowl, cover, and let rest for 30 min to 4 hours."},
     {"heading": "Gluten Development:"},
@@ -63,7 +64,7 @@
     {"step": "Add the salt and pour over the remaining 50 g of water, combine."},
     {"step": "Once the water has been mostly absorbed, turn the dough out onto the counter and knead and 'slap and fold' for about 5 min. The water will completely absorb and the dough will be smooth and homogenous."},
     {"heading": "Bulk Fermentation:"},
-    {"step": "Place the kneaded dough ball in a lightly oiled container and cover. Leave in a warm place (ex. oven with the light on) for about 30 min. "},
+    {"step": "Place the kneaded dough ball in a lightly oiled container and cover. Leave in a warm place (ex. oven with the light on) for about 30 min."},
     {"step": "After 30 min have passed lightly oil your hands and turn the dough."},
     {"step": "Repeat every 30 min for about 4 hours or until the dough has nearly doubled in volume. Remember to oil the lid if the dough is likely to touch the top of the container."},
     {"heading": "Loaf Shaping:"},
@@ -76,7 +77,7 @@
     {"step": "Store in refrigerator over night, minimum of 12 hours."},
     {"heading": "Baking:"},
     {"step": "Place your dutch oven into the oven and preheat to 500ºF."},
-    {"step": "When the oven comes up to temperature, de-mold one loaf onto a piece of parchment paper. Score a design into the top of the loaf with a lame and transfer the loaf into the dutch oven with the parchment paper. "},
+    {"step": "When the oven comes up to temperature, de-mold one loaf onto a piece of parchment paper. Score a design into the top of the loaf with a lame and transfer the loaf into the dutch oven with the parchment paper."},
     {"step": "Place the dough in a bowl, cover it with a towel and let rise for about 1 hour (or until it has roughly doubled in size."},
     {"step": "Close the dutch oven with its lid and set timer for 20 min. Closing the lid for the first 20 min of the bake will surround the bread in steam, allowing it to rise and not crust over."},
     {"step": "After the first 20 min remove the lid and cook for another 20 min uncovered."},
