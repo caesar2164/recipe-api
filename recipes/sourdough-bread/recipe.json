@@ -24,7 +24,8 @@
   "ingredients": [
     {
       "Sourdough Starter, fed": {
-        "amount": "250 grams"
+        "amount": "250 grams",
+        "preparation": "sourdough-starter"
       }
     },
     {
