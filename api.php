@@ -54,13 +54,20 @@ if(isset($_GET['key']) && $_GET['key'] == $SETTINGS["API_KEY"]) {
                 displayDocs('Recipe API', 'Version 0.1.0');
                 break;
             case 'get_one': # Get all of one recipe.
-                if (isset($_GET['recipe'])) {
-                    $recipe_name = $_GET['recipe'];
-                    $recipe_file = 'recipes/'.$recipe_name.'/recipe.json';
-                    if (file_exists($recipe_file)) {
-                        $json = getFileJSON($recipe_file);
+                $recipe_set = (isset($_GET['recipe']) ? true : false);
+                $preparation_set = (isset($_GET['preparation']) ? true : false);
+                if ($recipe_set || $preparation_set) {
+                    if ($recipe_set) {
+                        $output_name = $_GET['recipe'];
+                        $output_file = 'recipes/'.$output_name.'/recipe.json';
+                    } else {
+                        $output_name = $_GET['preparation'];
+                        $output_file = 'preparations/'.$output_name.'/recipe.json';
+                    }
+                    if (file_exists($output_file)) {
+                        $json = getFileJSON($output_file);
                         if (!is_null($json)) {
-                            $photo_url = getRecipePhoto($recipe_name);
+                            $photo_url = getRecipePhoto($output_name);
                             $json['photo'] = $photo_url;
                             printJSON($json);
                         } else {
