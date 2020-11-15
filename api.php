@@ -105,6 +105,8 @@ if(isset($_GET['key']) && $_GET['key'] == $SETTINGS["API_KEY"]) {
                 }
                 printJSON($output_json);
                 break;
+            case 'get_all_filters': # Get all unique tags from all recipes.
+
             case 'get_all_tags': # Get all unique tags from all recipes.
                 $files = glob('recipes/*/recipe.json');
                 $output_tags = [];
