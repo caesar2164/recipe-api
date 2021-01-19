@@ -148,7 +148,7 @@ if(isset($_GET['key']) && $_GET['key'] == $SETTINGS["API_KEY"]) {
                     $recipe_name = explode('/', $file)[1];
                     $json = getFileJSON($file);
                     if (!is_null($json)) {
-                        foreach ($json['dish_types'] as $tag) {
+                        foreach ($json['dish_type'] as $tag) {
                             if (!in_array($tag, $output_dish_types)) {
                                 array_push($output_dish_types, $tag);
                             }
