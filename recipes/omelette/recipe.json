@@ -1,0 +1,82 @@
+{
+  "recipe_name": "Omelette",
+  "description": "American style omelette.",
+  "tags": [
+    "vegetarian",
+    "quick"
+  ],
+  "dish_type": [
+    "appetizer",
+    "brunch"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "egg"
+  ],
+  "times": {
+    "Prep Time": "15 mins",
+    "Cook Time": "15 mins",
+    "Active Time": "30 mins",
+    "Total Time": "30 mins"
+  },
+  "yields": {
+    "Servings": 2
+  },
+  "ingredients": [
+    {
+      "Eggs, large": {
+        "amount": "4"
+      }
+    },
+    {
+      "Cream": {
+        "amount": ".25 cup"
+      }
+    },
+    {
+      "Mushrooms, Crimini": {
+        "amount": "4 oz"
+      }
+    },
+    {
+      "Cheese, grated": {
+        "amount": "4 oz"
+      }
+    },
+
+    {
+      "Oil, olive": {
+        "amount": "2 tbsp"
+      }
+    },
+    {
+      "Italian Seasoning": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Slice the green onions in a tablespoon of oil until they start to color."},
+    {"step": "Slice the mushrooms and add to the pan. Let cook on medium-low heat for 5-10 minutes and set aside."},
+    {"step": "Lightly beat the eggs (adding a little salt and a dash of vinegar helps the eggs set) with the cream in a bowl."},
+    {"step": "In the same pan, heat the second tablespoon of oil and then pour in the egg mixture."},
+    {"step": "Lightly stir the egg to allow the egg to cook evenly and when it starts to firm up, let cook for a few minutes undisturbed."},
+    {"step": "Distribute the cheese and mushroom mixture evenly over the eggs."},
+    {"step": "When the cheese starts melting, season the omelette with salt, pepper and Italian Seasoning, and then fold the omelette into thirds."},
+    {"step": "When your preferred level of doneness is achieved, serve."},
+    {"step": "Omelette done."}
+  ]
+}
