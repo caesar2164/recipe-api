@@ -1,0 +1,65 @@
+{
+  "recipe_name": "Lasagne alla Bolognese",
+  "description": "Classic Lasagne with red meat sauce.",
+  "tags": [
+    "pasta",
+    "italian"
+  ],
+  "dish_type": [
+    "pasta"
+  ],
+  "meal": [
+    "dinner"
+  ],
+  "key_ingredients": [],
+  "times": {
+    "Active Time": "1.5 hours",
+    "Total Time": "2.5 hours"
+  },
+  "yields": {
+    "Servings": 8
+  },
+  "ingredients": [
+    {
+      "Fresh Pasta Dough": {
+        "amount": "1",
+        "preparation": "pasta-uovo"
+      }
+    },
+    {
+      "Béchamel Sauce": {
+        "amount": "1",
+        "preparation": "bechamel"
+      }
+    },
+    {
+      "Ragù Sauce": {
+        "amount": "1",
+        "preparation": "ragu-manzo"
+      }
+    },
+    {
+      "Ricotta": {
+        "amount": "1 kilogram"
+      }
+    },
+    {
+      "Parmesan": {
+        "amount": "500 grams"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Prepare the white sauce by mixing ricotta with the Béchamel sauce until completely smooth and set aside."},
+    {"step": "With a pasta machine flatten the pasta to thin sheets and cut them into ten inch sections. (if you stack them, flour liberally between each one to prevent them from sticking.)"},
+    {"step": "Boil salted water in a large pot. (put in a teaspoon of oil to prevent the sheets from sticking.)"},
+    {"step": "Flash boil each pasta sheet, one at a time, in the water and set aside in a bowl of cold water to cool."},
+    {"step": "Preheat the oven to 375 degrees Fahrenheit."},
+    {"step": "Cover the bottom of a 10 by 15 inch baking tin with a thin layer of sauce."},
+    {"step": "Assemble the lasagna by alternating layers of Pasta sheets, red sauce, white sauce and parmesan."},
+    {"step": "Now add a final layer of pasta, white sauce and parmesan to create a nice crisp crust."},
+    {"step": "Bake in the oven for about one hour."},
+    {"step": "When the edges of the top pasta layer start brown, set the oven to broil for about 5 minutes (or until a nice golden-brown crust is formed)."},
+    {"step": "Lasagne alla Bolognese done."}
+  ]
+}

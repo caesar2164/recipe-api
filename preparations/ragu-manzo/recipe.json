@@ -1,0 +1,75 @@
+{
+  "recipe_name": "Ragù di Manzo",
+  "description": "Meaty tomato sauce for lasagne and other pasta dishes.",
+  "tags": [
+    "sauce"
+  ],
+  "dish_type": [
+    "preparation"
+  ],
+  "meal": [],
+  "key_ingredients": [
+    "Beef",
+    "Tomato"
+  ],
+  "times": {
+    "Active Time": "30 minutes",
+    "Total Time": "2 hours"
+  },
+  "yields": {
+    "Servings": 1,
+    "Units": "liter"
+  },
+  "ingredients": [
+    {
+      "Beef, ground": {
+        "amount": "500 grams"
+      }
+    },
+    {
+      "Onion, large": {
+        "amount": "1"
+      }
+    },
+    {
+      "Plum Tomato, canned": {
+        "amount": "2"
+      }
+    },
+    {
+      "Olive Oil": {
+        "amount": "50 milliliters"
+      }
+    },
+    {
+      "Wine, white": {
+        "amount": "50 milliliters"
+      }
+    },
+    {
+      "Oregano": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Mince the onions and saute them in oil a large saucepan on medium heat."},
+    {"step": "Add oregano and let cook for a few minutes."},
+    {"step": "Add the meat and let it brown, mixing often. Let cook until most of the liquid is evaporated."},
+    {"step": "Add the wine and reduce once more."},
+    {"step": "Blend the tomatoes and pour them in with the meat."},
+    {"step": "Reduce the heat to a simmer, and cook slowly for about 1 hour."},
+    {"step": "Add salt and pepper to taste."},
+    {"step": "Ragù di Manzo done."}
+  ]
+}

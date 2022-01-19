@@ -1,0 +1,55 @@
+{
+  "recipe_name": "Pasta all'Uovo",
+  "description": "Fresh egg pasta for many pasta recipes.",
+  "tags": [
+    "vegetarian"
+  ],
+  "dish_type": [
+    "preparation"
+  ],
+  "meal": [],
+  "key_ingredients": [
+    "Eggs"
+  ],
+  "times": {
+    "Active Time": "30 minutes",
+    "Total Time": "1 hour"
+  },
+  "yields": {
+    "Servings": 1,
+    "Units": "pasta dough"
+  },
+  "ingredients": [
+    {
+      "All Purpose Flour": {
+        "amount": "600 grams"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "6"
+      }
+    },
+    {
+      "Water": {
+        "amount": "15 milliliters"
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+      {"step": "Pour the flour on a work surface (a wooden board on the counter works well)."},
+      {"step": "Make a well in the center of the flour."},
+      {"step": "Crack eggs into the well and add the water and the salt."},
+      {"step": "With a fork mix eggs and water and begin mixing in flour."},
+      {"step": "Continue doing this, taking more and more of the flour from around the egg mixture."},
+      {"step": "Once it gets too hard to do with a fork, start hand-working the dough."},
+      {"step": "Knead the dough until uniform, soft and resilient."},
+      {"step": "Wrap in cling film and place in refrigerator for about 15-30 minutes."},
+      {"step": "Pasta All'Uovo done."}
+  ]
+}

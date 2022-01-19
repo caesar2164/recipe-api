@@ -1,0 +1,65 @@
+{
+  "recipe_name": "Béchamel Sauce",
+  "description": "White sauce (one of the mother sauces) commonly used for lasagne and lots of other things.",
+  "tags": [
+    "vegetarian",
+    "sauce"
+  ],
+  "dish_type": [
+    "preparation"
+  ],
+  "meal": [],
+  "key_ingredients": [
+    "Milk"
+  ],
+  "times": {
+    "Active Time": "30 minutes",
+    "Total Time": "30 minutes"
+  },
+  "yields": {
+    "Servings": 1,
+    "Units": "liter"
+  },
+  "ingredients": [
+    {
+      "All Purpose Flour": {
+        "amount": "30 grams"
+      }
+    },
+    {
+      "Butter": {
+        "amount": "50 grams"
+      }
+    },
+    {
+      "Milk": {
+        "amount": "1 liter"
+      }
+    },
+    {
+      "Nutmeg": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "In a saucepan, melt the butter at low heat."},
+    {"step": "Add the flour and stir constantly until butter and flour combine and nothing is sticking to the walls."},
+    {"step": "Add some of the cold milk. Stirring constantly until the mixture is smooth."},
+    {"step": "Add some more milk and repeat until all the milk has been added."},
+    {"step": "Bring to a boil and cook for 10 minutes, still stirring constantly. (it should become smooth and velvety.)"},
+    {"step": "Add salt, pepper and nutmeg to taste."},
+    {"step": "Turn off heat, stirring occasionally until cold, to prevent the formation of a crust."},
+    {"step": "Béchamel Sauce done."}
+  ]
+}
