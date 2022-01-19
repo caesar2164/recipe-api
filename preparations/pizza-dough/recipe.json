@@ -1,0 +1,66 @@
+{
+  "recipe_name": "Fast Pizza Dough",
+  "description": "How to make the dough to make pizza (fast version with active dry yeast).",
+  "tags": [
+    "vegetarian",
+    "baking"
+  ],
+  "dish_type": [
+    "preparation"
+  ],
+  "meal": [],
+  "key_ingredients": [],
+  "times": {
+    "Active Time": "20 minutes",
+    "Total Time": "2 hours"
+  },
+  "yields": {
+    "Servings": 1,
+    "Units": "dough"
+  },
+  "ingredients": [
+    {
+      "All Purpose Flour": {
+        "amount": "200 grams"
+      }
+    },
+    {
+      "Water, filtered": {
+        "amount": "200 grams",
+        "substitutions": [
+          {
+            "Water, tap": {
+              "amount": "200 grams"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "Yeast, active dry": {
+        "amount": "6 grams"
+      }
+    },
+    {
+      "Sugar, granulated": {
+        "amount": "4 grams"
+      }
+    },
+    {
+      "Salt": {
+        "amount": "1 gram"
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Put flour (this can also be up to 50% whole wheat flour) and salt in a mixing bowl."},
+    {"step": "Mix and make a well in the center."},
+    {"step": "Put sugar and yeast in the well."},
+    {"step": "Slowly start pouring the water (lukewarm) into the well and mix with a fork."},
+    {"step": "Keep mixing and pouring until all the water has been added."},
+    {"step": "Transfer dough to a wooden board and start kneading the dough, adding flour until the dough does not stick to your hands but is still soft."},
+    {"step": "Sprinkle flour into the bowl used previously and re-transfer the dough to the bowl; sprinkle some flour on top of the dough, and cover with a towel and leave the dough in a warm place to let it rise."},
+    {"step": "When the dough has doubled in volume (in about 1-2 hours) re-knead the dough with a little more flour to compact it."},
+    {"step": "Pizza Dough done! (now pick a topping and you are on you're way!)"}
+  ]
+}
