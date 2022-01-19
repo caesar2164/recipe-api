@@ -1,0 +1,108 @@
+{
+  "recipe_name": "Torta Verde",
+  "description": "Savory vegetarian zucchini and rice pie.",
+  "tags": [
+    "vegetarian"
+  ],
+  "dish_type": [
+    "first course",
+    "main dish"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "rice",
+    "zucchini"
+  ],
+  "times": {
+    "Prep Time": "45 minutes",
+    "Cook Time": "45 minutes",
+    "Active Time": "30 minutes",
+    "Total Time": "1.5 hours"
+  },
+  "yields": {
+    "Servings": 8
+  },
+  "ingredients": [
+    {
+      "Puff Pastry sheet": {
+        "amount": "1"
+      }
+    },
+    {
+      "Zucchini": {
+        "amount": "2 pounds"
+      }
+    },
+    {
+      "Rice, Arborio": {
+        "amount": "2.5 cups"
+      }
+    },
+    {
+      "Onion, large": {
+        "amount": "1"
+      }
+    },
+    {
+      "Eggs, large": {
+        "amount": "3"
+      }
+    },
+    {
+      "Cream": {
+        "amount": ".5"
+      }
+    },
+    {
+      "Olive Oil": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Parmesan": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Water": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Cream, heavy": {
+        "amount": "1 tsp"
+      }
+    },
+    {
+      "Marjoram": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+      {"step": "Mince the onion and saute it at medium heat in 2 tablespoons of oil and some water."},
+      {"step": "While the onion is cooking flatten one puff pastry sheet to cover the bottom and sides of a rectangular metal or glass oven proof dish with a bit extra all around to roll into a crust later."},
+      {"step": "Flatten the other sheet to about the size of the bottom of the cookie sheet and set aside."},
+      {"step": "Preheat the oven to 375 degrees Fahrenheit."},
+      {"step": "Shred the zucchini in a food processor with a large shredding attachment."},
+      {"step": "When the onion is cooked add the rice and let it heat up and get glossy."},
+      {"step": "Let the onions and rice mixture cool and then add the all the other ingredients, including salt, pepper and marjoram to taste, and mix well."},
+      {"step": "Pour this mixture into the prepared cookie sheet, level it, and cover everything with the second sheet of puff pastry."},
+      {"step": "Pinch the edges of the two sheets together and roll them to seal and create the crust. With a fork puncture the top sheet evenly to prevent blistering."},
+      {"step": "Bake in the oven for about 45 minutes or when the puff pastry becomes golden."},
+      {"step": "Torta Verde done."}
+  ]
+}
