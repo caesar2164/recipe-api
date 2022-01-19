@@ -1,0 +1,82 @@
+{
+  "recipe_name": "Pasta al Pesto",
+  "description": "Pasta with Pesto Sauce!",
+  "tags": [
+    "vegetarian"
+  ],
+  "dish_type": [
+    "first course",
+    "main dish"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "Pasta",
+    "Basil",
+    "Pine Nuts"
+  ],
+  "times": {
+    "Prep Time": "20 min",
+    "Cook Time": "20 min",
+    "Active Time": "20 min",
+    "Total Time": "20 min"
+  },
+  "yields": {
+    "Servings": 4
+  },
+  "ingredients": [
+    {
+      "Linguine": {
+        "amount": "250 grams"
+      }
+    },
+    {
+      "Basil, fresh": {
+        "amount": ".5 cups"
+      }
+    },
+    {
+      "Pine Nuts": {
+        "amount": "2 tablespoons"
+      }
+    },
+    {
+      "Garlic, clove": {
+        "amount": "1"
+      }
+    },
+    {
+      "Parmesan, grated": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Olive Oil, extra virgin": {
+        "amount": ".25 cups"
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Start boiling a large pot of salted water."},
+    {"step": "While the water is heating up, put the basil in a food processor along with the garlic, grated Parmesan and pine nuts."},
+    {"step": "Turn on the food processor and add the oil while the blade is spinning."},
+    {"step": "Add the oil until the consistency of the pesto is creamy (roughly that of hummus)."},
+    {"step": "Add salt and pepper to taste in the food processor."},
+    {"step": "When the water boils, add the linguine."},
+    {"step": "When the pasta is 'al dente' drain it (but keep a little of the pasta water, to add to the pesto in case it is too thick)."},
+    {"step": "Put the pesto in a large mixing bowl, put in the pasta and mix thoroughly."},
+    {"step": "Pasta al Pesto done."}
+  ]
+}
