@@ -33,9 +33,11 @@ if (!$SETTINGS) {
 
 if(isset($_GET['key']) && $_GET['key'] == $SETTINGS["API_KEY"]) {
     function getRecipePhoto($recipe_name) {
-        $photo_path = 'recipes/'.$recipe_name.'/photo.jpg';
-        if (file_exists($photo_path)) {
-            return $_SERVER['HTTP_HOST'].'/'.$photo_path;
+        $photo_path = $recipe_name.'/photo.jpg';
+        if (file_exists('recipes/'.$photo_path)) {
+            return $_SERVER['HTTP_HOST'].'/recipes/'.$photo_path;
+        } else if (file_exists('preparations/'.$photo_path)) {
+            return $_SERVER['HTTP_HOST'].'/preparations/'.$photo_path;
         } else {
             return $_SERVER['HTTP_HOST'].'/recipes/food.svg';
         }
