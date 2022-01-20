@@ -1,0 +1,96 @@
+{
+  "recipe_name": "Risotto coi Funghi",
+  "description": "Classic north Italian risotto with mushrooms.",
+  "tags": [
+    "vegetarian"
+  ],
+  "dish_type": [
+    "main dish"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "rice",
+    "mushrooms"
+  ],
+  "times": {
+    "Prep Time": "15 mins",
+    "Cook Time": "45 mins",
+    "Active Time": "45 mins",
+    "Total Time": "1 hr"
+  },
+  "yields": {
+    "Servings": 6
+  },
+  "ingredients": [
+    {
+      "Rice, Arborio": {
+        "amount": "500 grams"
+      }
+    },
+    {
+      "Mushrooms, crimini": {
+        "amount": "450 grams"
+      }
+    },
+    {
+      "Onion": {
+        "amount": "1"
+      }
+    },
+    {
+      "Vegetable Stock": {
+        "amount": "2 liters"
+      }
+    },
+    {
+      "Wine, white": {
+        "amount": "100 milliliters"
+      }
+    },
+    {
+      "Olive Oil": {
+        "amount": "30 milliliters"
+      }
+    },
+    {
+      "Ginger, ground": {
+        "amount": "1 gram"
+      }
+    },
+    {
+      "Cream": {
+        "amount": ""
+      }
+    },
+    {
+      "Parmesan": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Saute the minced onions in olive oil."},
+    {"step": "When the onions begin to color, add the sliced mushrooms."},
+    {"step": "Cover them and let them cook for about 15 minutes stirring occasionally."},
+    {"step": "Add the wine, ginger and let evaporate."},
+    {"step": "Add the raw rice and let it absorb all the liquid."},
+    {"step": "When the rice dries out and shines, add a ladle of hot stock and stir constantly until it is completely absorbed."},
+    {"step": "Repeat until the rice becomes translucent with a little white grain visible at the center. (This usually takes about 30 minutes.)"},
+    {"step": "Add a dash of cream, some parmesan, season, mix and put in plates."},
+    {"step": "Sprinkle Parmesan and grind pepper over the top and serve."},
+    {"step": "Risotto coi Funghi done."}
+  ]
+}
