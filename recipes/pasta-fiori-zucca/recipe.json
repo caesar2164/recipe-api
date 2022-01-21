@@ -1,0 +1,80 @@
+{
+  "recipe_name": "Pasta ai Fiori di Zucca",
+  "description": "Pasta with zucchini or pumpkin flowers. A very nice, light and fresh pasta for summer when zucchini and/or pumpkin bloom.",
+  "tags": [
+    "vegetarian"
+  ],
+  "dish_type": [
+    "first course",
+    "main dish"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "Pasta",
+    "Flowers"
+  ],
+  "times": {
+    "Prep Time": "20 min",
+    "Cook Time": "20 min",
+    "Active Time": "20 min",
+    "Total Time": "20 min"
+  },
+  "yields": {
+    "Servings": 4
+  },
+  "ingredients": [
+    {
+      "Pasta, short": {
+        "amount": "250 grams"
+      }
+    },
+    {
+      "Pumpkin Flowers, bunch": {
+        "amount": "1"
+      }
+    },
+    {
+      "Onion": {
+        "amount": "1"
+      }
+    },
+    {
+      "Olive Oil": {
+        "amount": "30 ml"
+      }
+    },
+    {
+      "Marjoram": {
+        "amount": ""
+      }
+    },
+    {
+      "Parmesan": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Put a pot of water to boil."},
+    {"step": "Mince onion and saute in a large pan with the oil and some water to mellow out the onion flavor."},
+    {"step": "When onion begins to color, chop and add the flowers."},
+    {"step": "The water should now be close to boiling, so salt the water and when it boils, drop the pasta."},
+    {"step": "Let the flowers and onions cook and right before the pasta is ready add the chopped marjoram and season with salt and pepper to taste."},
+    {"step": "When the pasta is 'al dente' strain it and add it to the flowers and onion."},
+    {"step": "Put the pasta in plates, sprinkle Parmesan and grind some pepper over the top and serve!"},
+    {"step": "Pasta ai Fiori di Zucca done."}
+  ]
+}
