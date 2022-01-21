@@ -1,0 +1,91 @@
+{
+  "recipe_name": "Pasta ai Pistacchi, Asparagi, e Panna",
+  "description": "Pasta with Pistachios, Asparagus and cream sauce.",
+  "tags": [
+    "vegetarian"
+  ],
+  "dish_type": [
+    "first course",
+    "main dish"
+  ],
+  "meal": [
+    "lunch",
+    "dinner"
+  ],
+  "key_ingredients": [
+    "Pasta",
+    "Pistachio",
+    "Asparagus"
+  ],
+  "times": {
+    "Prep Time": "15 min",
+    "Cook Time": "30 min",
+    "Active Time": "30 min",
+    "Total Time": "45 min"
+  },
+  "yields": {
+    "Servings": 4
+  },
+  "ingredients": [
+    {
+      "Pasta, short": {
+        "amount": "250 grams"
+      }
+    },
+    {
+      "Asparagus": {
+        "amount": "500 grams"
+      }
+    },
+    {
+      "Cream": {
+        "amount": "300 milliliters"
+      }
+    },
+    {
+      "Garlic, cloves": {
+        "amount": "1"
+      }
+    },
+    {
+      "Wine, white": {
+        "amount": "75 milliliters"
+      }
+    },
+    {
+      "Butter": {
+        "amount": ""
+      }
+    },
+    {
+      "Parmesan": {
+        "amount": ""
+      }
+    },
+    {
+      "Salt": {
+        "amount": ""
+      }
+    },
+    {
+      "Pepper": {
+        "amount": ""
+      }
+    }
+  ],
+  "directions": [
+    {"step": "Toast the Pistachios in a dry pan for 5-7 minutes, let cool set aside."},
+    {"step": "Cook the asparagus in a pot in boiling salt water over medium heat until tender. (about 3 minutes.)"},
+    {"step": "Remove the asparagus and save the water in which to prepare the pasta. Bring the water back to boil."},
+    {"step": "Crush the clove of garlic with the side of a large knife, saute it in the butter in a pan on medium heat until the garlic begins to brown, then discard the clove. (press the garlic down with a wooden spoon while it's sauteing to squeeze out the juices.)"},
+    {"step": "When the water boils, add the pasta."},
+    {"step": "Add the asparagus and pepper."},
+    {"step": "Increase the heat, pour in the wine and let it cook off, stirring, for about a minute."},
+    {"step": "Reduce the heat back to medium and pour in the cream, and let simmer for about 2 minutes."},
+    {"step": "Season the sauce to taste with salt and pepper."},
+    {"step": "When the pasta is 'al dente' strain and add to the sauce."},
+    {"step": "Add the cheese and mix everything well."},
+    {"step": "Plate, season with freshly ground pepper and serve."},
+    {"step": "Pasta ai Pistacchi, Asparagi e Panna done."}
+  ]
+}
